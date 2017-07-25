@@ -1,1 +1,10 @@
 node_modules
+.idea/LearnReact.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
+npm-debug.log
+package.json
+public/
+security-rules.json
+src/
