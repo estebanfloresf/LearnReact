@@ -96,6 +96,7 @@ class App extends React.Component{
         this.setState({order});
     }
 
+
     render(){
         return (
             <div className="catch-of-the-day">
@@ -113,10 +114,15 @@ class App extends React.Component{
                 <Inventory  addFish={this.addFish}           loadSamples={this.loadSamples}
                     fishes={this.state.fishes}
                     updateFish={this.updateFish}
-                removeFish={this.removeFish}/>
+                removeFish={this.removeFish}
+                storeId={this.props.params.storeId}/>
             </div>
         );
     }
 }
+
+App.propTypes={
+    params: React.PropTypes.object.isRequired
+};
 
 export default App;
