@@ -2,6 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="947f1f2b-2746-4d6c-a1cc-ddf5e1c2bf96" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/media/blanch_caps_inline-webfont.1461f8e9.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/media/blanch_caps_inline-webfont.73a576a8.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/media/blanch_caps_inline-webfont.8345e1b3.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/media/haymaker-webfont.4c3fb584.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/media/haymaker-webfont.751e5627.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/media/haymaker-webfont.e9535f20.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/css/main.467e3fa6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/css/main.467e3fa6.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/js/main.dcf5118e.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/js/main.dcf5118e.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/media/anchor.d2f8799a.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/media/blanch_caps_inline-webfont.7bbffda6.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/static/media/haymaker-webfont.cf798e30.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -192,7 +208,7 @@
       <workItem from="1501350198791" duration="1310000" />
       <workItem from="1501351610142" duration="585000" />
       <workItem from="1501352357235" duration="3728000" />
-      <workItem from="1501621950964" duration="11689000" />
+      <workItem from="1501621950964" duration="11848000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1500942842767</created>
@@ -229,11 +245,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501694130898</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lesson 21">
+      <created>1501694303820</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1501694303820</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49637000" />
+    <option name="totallyTimeSpent" value="49796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
