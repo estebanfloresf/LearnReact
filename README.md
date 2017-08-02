@@ -1,5 +1,7 @@
 # LearnReact
-Wesbos learning curse
+Wesbos learning course
+
+http://wesbos.com/courses
 
 #This is the final Product
 
