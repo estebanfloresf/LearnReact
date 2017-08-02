@@ -2,6 +2,7 @@
   "name": "cotd",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://estebanfloresf.github.io/LearnReact/",
   "devDependencies": {
     "autoprefixer-stylus": "0.10.0",
     "babel-cli": "^6.24.1",
